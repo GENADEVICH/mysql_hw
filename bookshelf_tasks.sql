@@ -56,7 +56,7 @@ INSERT INTO books (books.title, books.year, books.shelves_id)
 VALUES ('Краткие ответы на большие вопросы', '2020', 1)
 ;
 INSERT INTO authors (authors.name)
-VALUES ('Стивен Хокинг')
+VALUES ('Стивен Хокинг') 
 ;
 INSERT INTO authors_books (authors_books.books_id, authors_books.authors_id)
 VALUES (176, 145)
